@@ -1,6 +1,6 @@
 package me.lbing.allocation;
 
-public class Tenure {
+public class PretenureSizeThreshold {
 	private static final int _1MB = 1024 * 1024;
 
 	/**
