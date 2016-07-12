@@ -6,6 +6,7 @@ public class Eden {
 	/**
 	 * VM参数:-verbose:gc -Xmx20M -Xms20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8
 	 */
+	@SuppressWarnings("unused")
 	public static void testAllocation() {
 		byte[] allocation1, allocation2, allocation3, allocation4;
 		allocation1 = new byte[2 * _1MB];
