@@ -15,12 +15,5 @@ public class Test {
 		list.add("aa");
 		list.add("aa");
 		System.out.println(list);
-		
-		
-		
-		
-//		while (true) {
-//
-//		}
 	}
 }
